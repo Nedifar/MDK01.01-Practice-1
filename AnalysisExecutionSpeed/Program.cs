@@ -15,15 +15,15 @@ namespace AnalysisExecutionSpeed
             Hashtable hash = new Hashtable();
             array = RandomFill(array);
             hash = RandomFill(hash);
-            MethodTiming(InsertionSort, array);
-            MethodTiming(ChoiceSort, array);
-            MethodTiming(BubbleSort, array);
-            MethodTiming(LinearSearch, array);
-            MethodTiming(BinarySearch, array);
-            MethodHashTableTiming(LinearSearch, hash);
+            MethodTiming(InsertionSort, array, "Сортировка вставкой:");
+            MethodTiming(ChoiceSort, array, "Сортировка выбором:");
+            MethodTiming(BubbleSort, array, "Сортировка обменом:");
+            MethodTiming(LinearSearch, array, "Линейный поиск:");
+            MethodTiming(BinarySearch, array, "Бинарный поиск:");
+            MethodHashTableTiming(LinearSearch, hash, "Поиск в хэш функции:");
         }
 
-        static void MethodTiming(TimingDelegate timing, int[] array)
+        static void MethodTiming(TimingDelegate timing, int[] array, string header)
         {
             Timing objT = new Timing();
             Stopwatch stpWatch = new Stopwatch();
@@ -32,13 +32,15 @@ namespace AnalysisExecutionSpeed
             timing.Invoke(array);
             stpWatch.Stop();
             objT.StopTime();
+            Console.WriteLine(header);
             Console.WriteLine("StopWatch: " +
 stpWatch.Elapsed.ToString());
             Console.WriteLine("Timing: " +
            objT.Result().ToString());
+            Console.WriteLine();
         }
 
-        static void MethodHashTableTiming(TimingHashDelegate timing, Hashtable hashtable)
+        static void MethodHashTableTiming(TimingHashDelegate timing, Hashtable hashtable, string header)
         {
             Timing objT = new Timing();
             Stopwatch stpWatch = new Stopwatch();
@@ -47,6 +49,7 @@ stpWatch.Elapsed.ToString());
             timing.Invoke(hashtable);
             stpWatch.Stop();
             objT.StopTime();
+            Console.WriteLine(header);
             Console.WriteLine("StopWatch: " +
 stpWatch.Elapsed.ToString());
             Console.WriteLine("Timing: " +
