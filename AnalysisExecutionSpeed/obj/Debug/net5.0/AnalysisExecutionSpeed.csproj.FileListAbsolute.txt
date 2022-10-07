@@ -1,0 +1,16 @@
+C:\Users\Nedifar\source\repos\AnalysisExecutionSpeed\AnalysisExecutionSpeed\bin\Debug\net5.0\AnalysisExecutionSpeed.exe
+C:\Users\Nedifar\source\repos\AnalysisExecutionSpeed\AnalysisExecutionSpeed\bin\Debug\net5.0\AnalysisExecutionSpeed.deps.json
+C:\Users\Nedifar\source\repos\AnalysisExecutionSpeed\AnalysisExecutionSpeed\bin\Debug\net5.0\AnalysisExecutionSpeed.runtimeconfig.json
+C:\Users\Nedifar\source\repos\AnalysisExecutionSpeed\AnalysisExecutionSpeed\bin\Debug\net5.0\AnalysisExecutionSpeed.runtimeconfig.dev.json
+C:\Users\Nedifar\source\repos\AnalysisExecutionSpeed\AnalysisExecutionSpeed\bin\Debug\net5.0\AnalysisExecutionSpeed.dll
+C:\Users\Nedifar\source\repos\AnalysisExecutionSpeed\AnalysisExecutionSpeed\bin\Debug\net5.0\AnalysisExecutionSpeed.pdb
+C:\Users\Nedifar\source\repos\AnalysisExecutionSpeed\AnalysisExecutionSpeed\obj\Debug\net5.0\AnalysisExecutionSpeed.csproj.AssemblyReference.cache
+C:\Users\Nedifar\source\repos\AnalysisExecutionSpeed\AnalysisExecutionSpeed\obj\Debug\net5.0\AnalysisExecutionSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nedifar\source\repos\AnalysisExecutionSpeed\AnalysisExecutionSpeed\obj\Debug\net5.0\AnalysisExecutionSpeed.AssemblyInfoInputs.cache
+C:\Users\Nedifar\source\repos\AnalysisExecutionSpeed\AnalysisExecutionSpeed\obj\Debug\net5.0\AnalysisExecutionSpeed.AssemblyInfo.cs
+C:\Users\Nedifar\source\repos\AnalysisExecutionSpeed\AnalysisExecutionSpeed\obj\Debug\net5.0\AnalysisExecutionSpeed.csproj.CoreCompileInputs.cache
+C:\Users\Nedifar\source\repos\AnalysisExecutionSpeed\AnalysisExecutionSpeed\obj\Debug\net5.0\AnalysisExecutionSpeed.dll
+C:\Users\Nedifar\source\repos\AnalysisExecutionSpeed\AnalysisExecutionSpeed\obj\Debug\net5.0\refint\AnalysisExecutionSpeed.dll
+C:\Users\Nedifar\source\repos\AnalysisExecutionSpeed\AnalysisExecutionSpeed\obj\Debug\net5.0\AnalysisExecutionSpeed.pdb
+C:\Users\Nedifar\source\repos\AnalysisExecutionSpeed\AnalysisExecutionSpeed\obj\Debug\net5.0\AnalysisExecutionSpeed.genruntimeconfig.cache
+C:\Users\Nedifar\source\repos\AnalysisExecutionSpeed\AnalysisExecutionSpeed\obj\Debug\net5.0\ref\AnalysisExecutionSpeed.dll
